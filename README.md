@@ -18,8 +18,8 @@ More on the channel: https://youtube.com/@aleksey_ai_rabota
 - Free updates: the app checks for a new version itself and installs it over the old one, settings stay.
 
 ## Set the sensitivity first
-Snap Fingers learns *your* snap: open Settings, run **Snap setup** and snap a few times. If it reacts to knocks, typing or
-colleagues talking, raise the **Threshold** a little - it only needs a sharp snap, not a loud one. One minute, and it
+Snap Fingers learns *your* snap: open Settings, press **Set up the snap again** and snap a few times. If it reacts to knocks,
+typing or colleagues talking, move the **Sensitivity** slider a little to the right - it only needs a sharp snap, not a loud one. One minute, and it
 stops reacting to noise around you.
 
 ## Why free
@@ -56,9 +56,9 @@ the `licenses` folder next to the installed program.
 **Как это выглядит (15 секунд):** https://youtube.com/shorts/6etfBuy2KOQ - два монитора, один щелчок.
 Канал: https://youtube.com/@aleksey_ai_rabota
 
-**Сначала настройте чувствительность под себя и шум вокруг.** В настройках есть «Настройка щелчка»: щёлкните несколько
-раз, программа запомнит именно ваш щелчок. Если она срабатывает на стук, печать или разговоры коллег - чуть поднимите
-«Порог». Важен резкий удар, а не громкость. Минута, и на посторонний шум она не реагирует.
+**Сначала настройте чувствительность под себя и шум вокруг.** В настройках нажмите «Настроить щелчок заново» и щёлкните
+несколько раз - программа запомнит именно ваш щелчок. Если она срабатывает на стук, печать или разговоры коллег - сдвиньте
+ползунок «Чувствительность» чуть правее. Важен резкий удар, а не громкость. Минута, и на посторонний шум она не реагирует.
 
 Если включены «три буквы» - выключите их на время скачивания, часть провайдеров рвёт соединение.
 
