@@ -3,7 +3,7 @@
 Snap your fingers - every window minimizes and the desktop is all that's left. Snap three times - everything comes back
 exactly as it was. Works fully offline: the microphone listens only for the snap, nothing is recorded or sent anywhere.
 
-**[Download for Windows](https://ty-biznesmen.ru/shchelchok)** - free, no sign-up. Windows 10/11, 64-bit.
+**[Download for Windows](https://ty-biznesmen.ru/go/gh)** - free, no sign-up. Windows 10/11, 64-bit.
 
 ![Snap Fingers](docs/snap-fingers.gif)
 
@@ -47,7 +47,7 @@ the `licenses` folder next to the installed program.
 Щёлкнул пальцами - все окна свернулись, на экране только рабочий стол. Щёлкнул три раза подряд - всё вернулось как было.
 Работает без интернета: микрофон слушает только щелчок, ничего не записывается и никуда не отправляется.
 
-**[Скачать для Windows](https://ty-biznesmen.ru/shchelchok)** - бесплатно, без регистрации. Windows 10/11, 64 бит.
+**[Скачать для Windows](https://ty-biznesmen.ru/go/gh)** - бесплатно, без регистрации. Windows 10/11, 64 бит.
 
 - Один щелчок - окна вниз. Три щелчка подряд - окна обратно, в том же порядке.
 - Микрофон ноутбука, гарнитура или наушники с микрофоном.
