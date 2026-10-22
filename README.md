@@ -1,6 +1,6 @@
 # Snap Fingers (Щёлк) - boss key for Windows
 
-Snap your fingers - every window minimizes and the desktop is all that's left. Snap three times - everything comes back
+Snap your fingers - every window minimizes and the desktop is all that's left. Snap again - everything comes back
 exactly as it was. Works fully offline: the microphone listens only for the snap, nothing is recorded or sent anywhere.
 
 **[Download for Windows](https://ty-biznesmen.ru/go/gh)** - free, no sign-up. Windows 10/11, 64-bit.
@@ -12,7 +12,7 @@ More on the channel: https://youtube.com/@aleksey_ai_rabota
 
 ## What it does
 - One snap - all windows go down, desktop is clean ("the boss is coming").
-- Three snaps in a row - the same windows come back, in the same order.
+- Snap again - the same windows come back, in the same order. For noisy rooms, Settings can require two or three snaps in a row.
 - Works with the built-in laptop mic, a headset or headphones with a mic.
 - No internet needed, ever. The last ~0.5 s of sound lives in memory only, for snap detection, and is discarded.
 - Free updates: the app checks for a new version itself and installs it over the old one, settings stay.
@@ -44,12 +44,12 @@ the `licenses` folder next to the installed program.
 
 # Щёлк - «кнопка босса» для Windows
 
-Щёлкнул пальцами - все окна свернулись, на экране только рабочий стол. Щёлкнул три раза подряд - всё вернулось как было.
+Щёлкнул пальцами - все окна свернулись, на экране только рабочий стол. Щёлкнул ещё раз - всё вернулось как было.
 Работает без интернета: микрофон слушает только щелчок, ничего не записывается и никуда не отправляется.
 
 **[Скачать для Windows](https://ty-biznesmen.ru/go/gh)** - бесплатно, без регистрации. Windows 10/11, 64 бит.
 
-- Один щелчок - окна вниз. Три щелчка подряд - окна обратно, в том же порядке.
+- Один щелчок - окна вниз. Ещё один - окна обратно, в том же порядке. Для шумных мест в настройках можно выбрать два или три щелчка подряд.
 - Микрофон ноутбука, гарнитура или наушники с микрофоном.
 - Обновления бесплатные: программа сама предлагает новую версию и ставит её поверх старой, настройки целы.
 
