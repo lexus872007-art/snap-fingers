@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Снимки состояний программы на своём виртуальном экране (сервер 2). Linux-версия Qt или Windows-сборка под Wine.
 
     python3 tools/shots.py linux  <папка> [--display 64] [--scale 1.5]  [--states idle,draw,...]

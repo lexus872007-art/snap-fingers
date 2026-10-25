@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Звук самого компьютера: удар в выводе в момент «щелчка» -> не щелчок; ровная музыка не мешает."""
 from shchelchok.syscom import output_hit
 

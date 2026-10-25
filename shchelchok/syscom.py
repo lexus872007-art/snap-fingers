@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Звук Windows через Core Audio (ctypes, COM вручную - без лишних библиотек). На Linux - заглушки.
 
 - OutputMeter: поток опрашивает громкость того, что ИГРАЕТ компьютер (IAudioMeterInformation::GetPeakValue

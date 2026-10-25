@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Набор реальных звуков для проверки детектора: открытые записи CC0 с freesound.org (прослушки hq.mp3 по прямым
 ссылкам с поиска, фильтр лицензии «Creative Commons 0»). Перевод в wav 16 кГц моно (ffmpeg).
 

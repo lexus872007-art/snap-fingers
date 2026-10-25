@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """«Цвет оформления» для окон Qt (PySide6) - КОПИЯ ~/office_tools/_brand (править там, раздавать: python3 _brand/sync.py).
 
 ThemePicker - строка кружков пресетов + «Свой» (ползунок оттенка под кружками, inline=True - в той же строке).

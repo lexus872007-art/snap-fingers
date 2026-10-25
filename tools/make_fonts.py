@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Статические начертания Manrope (600/700/800) из переменного ui/fonts/Manrope.ttf (OFL).
 Переменный шрифт под старым движком шрифтов Windows (и под Wine) рисуется самым тонким начертанием - поэтому в
 программу кладём обычные файлы: Manrope-SemiBold/Bold/ExtraBold.ttf, семейство «Manrope».

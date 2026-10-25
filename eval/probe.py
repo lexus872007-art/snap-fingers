@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Признаки ударов в wav-файлах (для подбора порогов): python eval/probe.py <папка|файл> ..."""
 import os, sys, wave
 from array import array

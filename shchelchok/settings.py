@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Настройки (%APPDATA%\\Щелчок\\settings.json) и горячая клавиша. Без Qt.
 
 Клавиша хранится строкой «Ctrl+Alt+Z»; для Windows (RegisterHotKey) - пара (модификаторы, код клавиши).

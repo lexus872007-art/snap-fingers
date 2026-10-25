@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Значок программы (тот же рисунок, что в трее и на плашке): ui/icon.png (256) и ui/icon.ico (16-256).
 Запуск на сервере 2: tools/linux_run.sh offscreen ../venv/bin/python tools/make_icon.py"""
 import os

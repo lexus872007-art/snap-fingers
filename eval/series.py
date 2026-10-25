@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Метрики ВОЗВРАТА окон серией щелчков (detector.RESTORE_N: с 16.10.2026 - ДВА щелчка, до этого три) на тех же
 записях (CC0), что и остальная таблица README. Сервер 2.
 

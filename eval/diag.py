@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Разбор пропусков: условие A (тихая комната), по каждому щелчку - признаки и оценка."""
 import os, sys
 import numpy as np

@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """ВЯЛЫЙ ЩЕЛЧОК: почему у владельца «срабатывает через раз» и что с этим можно сделать. Сервер 2.
 
     ../venv/bin/python eval/weak_snap.py [--thr 42] [--quiet 0,6,12,18]

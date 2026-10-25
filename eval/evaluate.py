@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Проверка детектора щелчка на реальных записях (CC0, freesound.org) и синтетике. Сервер 2, numpy - только здесь.
 
     ../venv/bin/python eval/evaluate.py ~/shchelchok_build/data [--minutes 30] [--sens 5] [--out eval/out]

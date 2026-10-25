@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Фирменный перелив для окон tkinter (установщики линейки) - та же формула, что brand-flow.js и плашка Local Voice.
 
 Цвет точки = LUT[(0.8·x + 0.45·y + фаза) mod 1] + два световых пятна exp(-((x-cx)² + 2.5·(y-cy)²)·9)·(28 + 60·energy).

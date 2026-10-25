@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Гаврилов Алексей Александрович
+# SPDX-License-Identifier: GPL-3.0-or-later
 """Названия и авторы записей freesound (для отбора настоящих щелчков пальцами): data/titles.json."""
 import json, os, re, sys, time, urllib.request
 d = sys.argv[1]; cls = sys.argv[2:] or ["snap"]
