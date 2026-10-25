@@ -1,0 +1,50 @@
+Щелчок - открытые компоненты и их лицензии
+==========================================
+
+Ваши файлы, записи и документы никуда не уходят - программа работает на вашем компьютере.
+В интернет она выходит только затем, чтобы проверить, не вышла ли новая версия; это
+выключается в настройках. Ниже - сторонние открытые компоненты, которые входят в её состав,
+их правообладатели и лицензии. Полные тексты лицензий лежат файлами в этой же папке.
+
+Программу «Щелчок» выпускает «ТЫ - бизнесмен» (ty-biznesmen.ru). Права на сторонние компоненты
+принадлежат их правообладателям; названия и лицензии - ниже.
+
+Окна
+----
+- Qt 6 и PySide6 - The Qt Company Ltd и участники проекта Qt, LGPL 3.0 или новее. Библиотеки Qt подключены
+  динамически (файлы Qt6*.dll и папка PySide6 в папке программы) и могут быть заменены на другую сборку той
+  же версии. Исходный код: https://download.qt.io/official_releases/qt/ (исходный код Qt 6.8),
+  https://download.qt.io/official_releases/QtForPython/ (PySide6). Тексты лицензий: LGPL-3.0.txt,
+  GPL-3.0.txt.
+- shiboken6 - The Qt Company Ltd, LGPL 3.0 или новее. Подключён динамически (папка shiboken6 в папке
+  программы) и может быть заменён. Исходный код: https://download.qt.io/official_releases/QtForPython/.
+  Текст лицензии: LGPL-3.0.txt.
+- Шрифт Manrope - The Manrope Project Authors, SIL Open Font License 1.1. Текст лицензии:
+  Manrope-OFL-1.1.txt.
+
+Микрофон
+--------
+- sounddevice - Matthias Geier, MIT. Текст лицензии: sounddevice-LICENSE.txt.
+- PortAudio - Ross Bencina, Phil Burk, MIT. Подключён динамически (libportaudio64bit.dll в папке программы)
+  и может быть заменён. Исходный код: https://github.com/PortAudio/portaudio. Текст лицензии:
+  PortAudio-LICENSE.txt.
+- cffi - Armin Rigo, Maciej Fijalkowski, MIT. Текст лицензии: cffi-LICENSE.txt.
+- pycparser - Eli Bendersky, BSD 3-Clause. Текст лицензии: pycparser-LICENSE.txt.
+
+Основа программы
+----------------
+- Python - Python Software Foundation, Python Software Foundation License 2.0. Текст лицензии:
+  Python-LICENSE.txt.
+- OpenSSL - The OpenSSL Project Authors, Apache License 2.0. Подключён динамически (libcrypto-3.dll,
+  libssl-3.dll в папке программы) и может быть заменён. Исходный код: https://www.openssl.org/source/. Текст
+  лицензии: Apache-2.0.txt.
+- libffi - Anthony Green и участники проекта, MIT. Подключена динамически (libffi-8.dll в папке программы) и
+  может быть заменена. Исходный код: https://github.com/libffi/libffi. Текст лицензии: MIT.txt.
+- Библиотеки Microsoft Visual C++ (VCRUNTIME140, MSVCP140) - Microsoft Corporation, компонент Windows
+  (Microsoft). Распространяемые библиотеки Windows, условия Microsoft.
+
+Библиотеки под LGPL подключены динамически и могут быть заменены; где взять их исходный код - в строках
+самих компонентов. Компонентов под лицензией GPL в программе нет.
+
+Если нужного текста лицензии рядом не оказалось или в перечне чего-то не хватает - напишите нам,
+пришлём: ty-biznesmen.ru
